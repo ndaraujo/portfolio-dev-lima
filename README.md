@@ -55,3 +55,47 @@ Este projeto foi construído com as seguintes tecnologias e ferramentas:
 ---
 
 ## 📂 Estrutura do Projeto
+
+/portfolio-dev-lima
+|
+├── 📄 index.html         # Arquivo principal com toda a estrutura HTML do site.
+|
+├── 📄 style.css          # Folha de estilos com todo o design e responsividade.
+|
+├── 📄 script.js         # Código JavaScript para as funcionalidades interativas.
+|
+└── 📄 README.md           # Esta documentação.
+
+---
+
+## 🛠️ Como Executar o Projeto Localmente
+
+Como este é um projeto front-end puro, não há necessidade de um servidor complexo ou dependências. Para executá-lo em sua máquina local, siga os passos:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/ndaraujo/portfolio-dev-lima.git](https://github.com/ndaraujo/portfolio-dev-lima.git)
+    ```
+
+2.  **Navegue até a pasta do projeto:**
+    ```bash
+    cd portfolio-dev-lima
+    ```
+
+3.  **Abra o arquivo `index.html`:**
+    * Clique duas vezes no arquivo `index.html` na sua pasta, e ele abrirá diretamente no seu navegador padrão.
+
+---
+
+## 👨‍💻 Autor
+
+Feito com ❤️ por **Fernando Lima**.
+
+* **GitHub:** [@ndaraujo](https://github.com/ndaraujo)
+* **LinkedIn:** [Seu Perfil no LinkedIn](https://linkedin.com/in/SEUUSUARIO)
+
+---
+
+## 📜 Licença
+
+Este projeto está sob a licença MIT. (Você pode adicionar um arquivo de licença se desejar).
