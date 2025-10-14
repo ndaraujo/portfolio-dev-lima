@@ -1,8 +1,5 @@
 # Portfólio Profissional - Dev Lima
 
-![Preview do Site](https://via.placeholder.com/800x400/2c3e50/ffffff?text=Adicione+um+print+do+seu+site+aqui!)
-*Substitua a imagem acima por um print da tela do seu portfólio.*
-
 ## 📖 Sobre o Projeto
 
 Este é o repositório do meu portfólio profissional, **Dev Lima**. Trata-se de uma landing page de página única (SPA - Single Page Application) desenvolvida para apresentar meus serviços nas áreas de **Suporte de TI, Técnico de Informática e Desenvolvimento Web**.
