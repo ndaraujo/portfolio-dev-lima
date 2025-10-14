@@ -94,7 +94,7 @@ Como este é um projeto front-end puro, não há necessidade de um servidor comp
 Feito com ❤️ por **Fernando Lima**.
 
 * **GitHub:** [@ndaraujo](https://github.com/ndaraujo)
-* **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/araujo-dev/)
+* **LinkedIn:** [Fernando Lima](https://www.linkedin.com/in/araujo-dev/)
 
 ---
 
