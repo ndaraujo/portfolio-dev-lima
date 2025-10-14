@@ -52,9 +52,10 @@ Este projeto foi construído com as seguintes tecnologias e ferramentas:
 * **Ícones:**
     * `Font Awesome`: Biblioteca de ícones utilizada em diversas seções do site.
 
----
 
 ## 📂 Estrutura do Projeto
+
+---
 
 ```text
 /portfolio-dev-lima
@@ -66,7 +67,7 @@ Este projeto foi construído com as seguintes tecnologias e ferramentas:
 ├── 📄 script.js         # Código JavaScript para as funcionalidades interativas.
 |
 └── 📄 README.md           # Esta documentação.
-
+```
 ---
 
 ## 🛠️ Como Executar o Projeto Localmente
