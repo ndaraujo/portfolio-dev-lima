@@ -56,6 +56,7 @@ Este projeto foi construído com as seguintes tecnologias e ferramentas:
 
 ## 📂 Estrutura do Projeto
 
+```text
 /portfolio-dev-lima
 |
 ├── 📄 index.html         # Arquivo principal com toda a estrutura HTML do site.
@@ -98,4 +99,4 @@ Feito com ❤️ por **Fernando Lima**.
 
 ## 📜 Licença
 
-Este projeto está sob a licença MIT. (Você pode adicionar um arquivo de licença se desejar).
+Este projeto está sob a licença MIT. 
